@@ -1,0 +1,38 @@
+{
+  "q1": {
+    "q":"What is the value of pi (π) approximately?",
+           "01": "3.14",
+            "02":"2.71",
+            "03":"1.62",
+            "04":"4.20"
+  },
+
+  "q2": {
+           "q":"Which of the following is a prime number?",
+           "01": "1",
+            "02":"2",
+            "03":"4",
+            "04":"6"
+  },
+  "q3": {
+            "q":"If a triangle has angles measuring 30°, 60°, and 90°, what type of triangle is it?",
+           "01": "Equilateral triangle",
+            "02":" Isosceles triangle",
+            "03":" Scalene triangle",
+            "04":" Right triangle"
+  },
+  "q4": {
+           "q":"What is the square root of 64?",
+           "01": "6",
+            "02": "8",
+            "03":  "10",
+            "04" : "12"
+  },
+  "q5": {
+            "q": "What is the value of the slope of a horizontal line?",
+            "01"   :  "0",
+             "02"  : "1",
+             "03" :"-1",
+             "04":"Undefined"
+  }
+}

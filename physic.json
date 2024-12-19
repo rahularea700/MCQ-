@@ -1,0 +1,38 @@
+{
+    "q1" : {
+       "q": "Which of the following is an example of an object in motion with constant speed but changing velocity?",
+        "o1": "A car traveling in a straight line at a steady speed",
+        "o2": "A car moving in a circular path at a constant speed",
+        "o3": "A car slowing down as it approaches a traffic light",
+        "o4": "A car accelerating as it goes downhill"
+    },
+    "q2": {
+        "q" :"What is the SI unit of electric current?",
+        "o1" :"Volt",
+        "o2" : "Ampere",
+        "o3": "Ohm",
+        "o4":"Watt"
+
+    },
+    "q3": {
+     "o1":   "Which of the following best describes the conservation of energy principle?",
+      "o2":  "Energy can be created but not destroyed",
+       "o3": "Energy can be destroyed but not created.",
+       "o4": "Energy is conserved in all physical processes.",
+       "o5": "Energy is only conserved in mechanical systems"
+    },
+    "q4":{
+        "q": "Which of the following materials has the highest coefficient of thermal expansion?",
+        "o1":" Glass",
+        "o2":"Aluminum",
+        "o3":"Copper",
+        "o4":"Rubber"
+    },
+    "q5":{
+        "q":"Which of the following statements about Newton's laws of motion is correct?",
+        "o1":"Newton's first law describes the relationship between force, mass, and acceleration",
+        "o2":"Newton's second law states that an object at rest will remain at rest unless acted upon by an unbalanced force.",
+        "o3":"Newton's third law states that for every action, there is an equal and opposite reaction.",
+        "o4":" Newton's laws are only applicable to objects in outer space."
+    }
+}
